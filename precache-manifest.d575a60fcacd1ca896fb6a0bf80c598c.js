@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9777bbf5ead75481ceb24db00d4fbaed",
+    "revision": "7aa2fada388ae2754e569ee7dac6c85a",
     "url": "/kyc-demo/index.html"
   },
   {
-    "revision": "d1b978f2510bb0af34fa",
-    "url": "/kyc-demo/static/css/main.32cc0369.chunk.css"
+    "revision": "c4bc736dda323b653f79",
+    "url": "/kyc-demo/static/css/main.8c9daf25.chunk.css"
   },
   {
     "revision": "235aeec2eae7d48eaead",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyc-demo/static/js/3.e26ec9e0.chunk.js"
   },
   {
-    "revision": "d1b978f2510bb0af34fa",
-    "url": "/kyc-demo/static/js/main.6d6fb28d.chunk.js"
+    "revision": "c4bc736dda323b653f79",
+    "url": "/kyc-demo/static/js/main.1dc5ffac.chunk.js"
   },
   {
     "revision": "f15eadde3c0d2e89fffe",
@@ -30,6 +30,70 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "97bd2e64c58345730d9e34fbbb581beb",
     "url": "/kyc-demo/static/media/about-us.97bd2e64.png"
+  },
+  {
+    "revision": "6a20d70f229663613a81f431ac053a5a",
+    "url": "/kyc-demo/static/media/background-4K-landscape.6a20d70f.jpg"
+  },
+  {
+    "revision": "62469789455359860a69af5a62540969",
+    "url": "/kyc-demo/static/media/background-4K-portrait.62469789.jpg"
+  },
+  {
+    "revision": "85f6003c08ca97931c6fb64bf30d9097",
+    "url": "/kyc-demo/static/media/background-desktop-landscape.85f6003c.jpg"
+  },
+  {
+    "revision": "de797396f1f9410cfcc17f8534b63ca7",
+    "url": "/kyc-demo/static/media/background-desktop-portrait.de797396.jpg"
+  },
+  {
+    "revision": "09b1e7faa92aa2179f3824d2daeacc10",
+    "url": "/kyc-demo/static/media/background-large-landscape.09b1e7fa.jpg"
+  },
+  {
+    "revision": "f3ed4d6b00b9d92a7319266ab028a6ed",
+    "url": "/kyc-demo/static/media/background-large-portrait.f3ed4d6b.jpg"
+  },
+  {
+    "revision": "6e6614b4b7a53912b6251aa1f55bc38b",
+    "url": "/kyc-demo/static/media/background-mobile-large-landscape.6e6614b4.jpg"
+  },
+  {
+    "revision": "8909d816d47cb6f402928ec7985a018d",
+    "url": "/kyc-demo/static/media/background-mobile-large-portrait.8909d816.jpg"
+  },
+  {
+    "revision": "47891704081ab861550b96cb41d22348",
+    "url": "/kyc-demo/static/media/background-mobile-small-landscape.47891704.jpg"
+  },
+  {
+    "revision": "3e96f3a8148bef8551a1a84b3dbb878f",
+    "url": "/kyc-demo/static/media/background-mobile-small-portrait.3e96f3a8.jpg"
+  },
+  {
+    "revision": "14db00071dd7d168e7d3fc2ce4e89d7c",
+    "url": "/kyc-demo/static/media/background-tablet-large-landscape.14db0007.jpg"
+  },
+  {
+    "revision": "2f3389d3909c64e6383d0f21645897a6",
+    "url": "/kyc-demo/static/media/background-tablet-medium-landscape.2f3389d3.jpg"
+  },
+  {
+    "revision": "808b21485afa9f2a822f647f43d6beec",
+    "url": "/kyc-demo/static/media/background-tablet-portrait.808b2148.jpg"
+  },
+  {
+    "revision": "83fcd91c99e67f5d2d08b90173e71dce",
+    "url": "/kyc-demo/static/media/background-tablet-small-landscape.83fcd91c.jpg"
+  },
+  {
+    "revision": "b6e1aa9d567e440b4445b802de04f9aa",
+    "url": "/kyc-demo/static/media/background-tablet-small-portrait.b6e1aa9d.jpg"
+  },
+  {
+    "revision": "96be932446fbd2ecba971c43b8accb10",
+    "url": "/kyc-demo/static/media/background.96be9324.jpg"
   },
   {
     "revision": "49add1eaf9638334b54356c60a84a38f",
