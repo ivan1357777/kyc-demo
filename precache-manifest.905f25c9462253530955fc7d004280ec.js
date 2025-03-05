@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a9d6a70efda3971f7c7c7c4ad56ba17b",
+    "revision": "89892013f4733b95e9d71b7895885a73",
     "url": "/kyc-demo/index.html"
   },
   {
-    "revision": "06d5a98bf95eb0393f5b",
-    "url": "/kyc-demo/static/css/main.b0461cbb.chunk.css"
+    "revision": "4eb2d10d6d5e4827e9f9",
+    "url": "/kyc-demo/static/css/main.67b2667a.chunk.css"
   },
   {
     "revision": "235aeec2eae7d48eaead",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kyc-demo/static/js/3.e26ec9e0.chunk.js"
   },
   {
-    "revision": "06d5a98bf95eb0393f5b",
-    "url": "/kyc-demo/static/js/main.1dc5ffac.chunk.js"
+    "revision": "4eb2d10d6d5e4827e9f9",
+    "url": "/kyc-demo/static/js/main.ef8d6ac9.chunk.js"
   },
   {
     "revision": "f15eadde3c0d2e89fffe",

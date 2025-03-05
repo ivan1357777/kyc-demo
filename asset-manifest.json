@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/kyc-demo/static/css/main.b0461cbb.chunk.css",
-    "main.js": "/kyc-demo/static/js/main.1dc5ffac.chunk.js",
-    "main.js.map": "/kyc-demo/static/js/main.1dc5ffac.chunk.js.map",
+    "main.css": "/kyc-demo/static/css/main.67b2667a.chunk.css",
+    "main.js": "/kyc-demo/static/js/main.ef8d6ac9.chunk.js",
+    "main.js.map": "/kyc-demo/static/js/main.ef8d6ac9.chunk.js.map",
     "runtime~main.js": "/kyc-demo/static/js/runtime~main.532f7dff.js",
     "runtime~main.js.map": "/kyc-demo/static/js/runtime~main.532f7dff.js.map",
     "static/js/2.f038271d.chunk.js": "/kyc-demo/static/js/2.f038271d.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.e26ec9e0.chunk.js": "/kyc-demo/static/js/3.e26ec9e0.chunk.js",
     "static/js/3.e26ec9e0.chunk.js.map": "/kyc-demo/static/js/3.e26ec9e0.chunk.js.map",
     "index.html": "/kyc-demo/index.html",
-    "precache-manifest.586f4fbd6bb9e4c67c4f34c2f1615496.js": "/kyc-demo/precache-manifest.586f4fbd6bb9e4c67c4f34c2f1615496.js",
+    "precache-manifest.905f25c9462253530955fc7d004280ec.js": "/kyc-demo/precache-manifest.905f25c9462253530955fc7d004280ec.js",
     "service-worker.js": "/kyc-demo/service-worker.js",
-    "static/css/main.b0461cbb.chunk.css.map": "/kyc-demo/static/css/main.b0461cbb.chunk.css.map",
+    "static/css/main.67b2667a.chunk.css.map": "/kyc-demo/static/css/main.67b2667a.chunk.css.map",
     "static/media/about-us-portrait.png": "/kyc-demo/static/media/about-us-portrait.f2bd7e50.png",
     "static/media/about-us.png": "/kyc-demo/static/media/about-us.97bd2e64.png",
     "static/media/confess.css": "/kyc-demo/static/media/b1.bfaf9aaa.jpg",
